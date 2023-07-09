@@ -55,3 +55,56 @@
     border: none;
      cursor: pointer;
 }
+.section-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+}
+.section-two{
+    margin-top: 20px;
+}
+.section-header{
+    text-align: center;
+    font-size: 50px;
+}
+.sec-tital{
+    padding-bottom: 37px;
+}
+#btn-two{
+    margin-top: 15px;
+}
+.box{
+    width: 200px;
+    box-shadow: 10px 10px 70px gray;
+    height: 315px;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    color: aliceblue;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+}
+.box img{
+    width: 60px;
+}
+.box-btn{
+    margin-top: 30px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    padding: 7px 13px;
+}
+.sec-are{
+    background-image: url("images/"),
+    linear-gradient(45deg,rgb(8, 8, 8),rgb(54, 52, 52));
+    margin-top: 20px;
+    padding-top: 55px;
+    height: 440px;
+}
+.one{
+    color: aliceblue;
+    padding-bottom: 15px;
+}
